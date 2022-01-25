@@ -1,0 +1,42 @@
+.miboton{
+    margin-left: 10px !important;
+}
+.midiv{
+    margin-top: 10%;
+}
+
+.msjerror{
+    color:red;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.colorregister{
+    color:royalblue;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.colorbienv{
+    background-color: sandybrown;
+}
+
+.about{
+    background: lavender;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+}
+
+.divform{
+    background:rgb(178, 209, 219);
+    width: 50%;
+    margin-left: 20%;
+}
+
+.divform input{
+    background:rgb(243, 239, 221) ;
+}
